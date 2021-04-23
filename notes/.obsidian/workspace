@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian Course.md",
+            "file": "Social Photography.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Course.md",
+                "file": "Social Photography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,11 @@
   },
   "active": "4e949fdc6cfa155a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Social Photography.md",
     "index.md",
+    "Join me.md",
+    "Courses.md",
+    "Untitled.md",
     "test vault.md",
     "_Home.md"
   ]
