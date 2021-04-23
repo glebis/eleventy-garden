@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "d66a700514cb1acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e949fdc6cfa155a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Course.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f4e7269ccdea3f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef89b54e08548340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7445b2dd100de3b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e776b6558147219",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8bb167b99bec88d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e29f86e6e1a30bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b2c9f12417b49e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e949fdc6cfa155a",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "index.md",
+    "test vault.md",
+    "_Home.md"
+  ]
+}
